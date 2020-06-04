@@ -1,6 +1,6 @@
 {
   "name": "bytes2uuid",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "bytearray -> uuid(Uint32Array x4) -> String",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,17 @@
     "type": "git",
     "url": "git+https://github.com/takanori-yanagitani/bytes2uuid.git"
   },
-  "keywords": [],
+  "keywords": [
+    "uuid",
+    "DataView",
+    "stringify",
+    "beautify",
+    "String",
+    "Uint32Array",
+    "uint32",
+    "hex",
+    "hexlify"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
