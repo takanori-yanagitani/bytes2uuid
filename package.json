@@ -1,0 +1,25 @@
+{
+  "name": "bytes2uuid",
+  "version": "0.0.1",
+  "description": "bytearray -> uuid(Uint32Array x4) -> String",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "jcov": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takanori-yanagitani/bytes2uuid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takanori-yanagitani/bytes2uuid/issues"
+  },
+  "homepage": "https://github.com/takanori-yanagitani/bytes2uuid#readme",
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "mocha": "^7.2.0"
+  }
+}
