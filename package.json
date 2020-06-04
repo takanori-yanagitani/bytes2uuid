@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "jcov": "jest --coverage",
-    "codecov": "jest && codecov"
+    "codecov": "jest --coverage && codecov"
   },
   "repository": {
     "type": "git",
